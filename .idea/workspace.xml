@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="New line">
-      <change afterPath="$PROJECT_DIR$/EXERCISES/c2f_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/guess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/guessx.py" afterDir="false" />
+    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="Set up ch 4 exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISES/c2f_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/c2f_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISES/guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/guess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISES/guessx.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/guessx.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,28 +48,7 @@
       <recent name="$PROJECT_DIR$/EXERCISES" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.string_fun">
-    <configuration name="c2f" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py3master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXERCISES" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/c2f.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.guessx">
     <configuration name="c2f_batch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="c2f_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +82,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/c2f_loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py3master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXERCISES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/guess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="guessx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py3master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXERCISES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/guessx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,17 +155,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.c2f" />
       <item itemvalue="Python.c2f_batch" />
-      <item itemvalue="Python.hello" />
       <item itemvalue="Python.string_fun" />
+      <item itemvalue="Python.c2f_loop" />
+      <item itemvalue="Python.guess" />
+      <item itemvalue="Python.guessx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.guessx" />
+        <item itemvalue="Python.guess" />
+        <item itemvalue="Python.c2f_loop" />
         <item itemvalue="Python.string_fun" />
         <item itemvalue="Python.c2f_batch" />
-        <item itemvalue="Python.c2f" />
-        <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644451174701</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Set up ch 4 exercises">
+      <created>1644451885169</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644451885169</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +246,7 @@
     <MESSAGE value="Test test" />
     <MESSAGE value="Ch 3 exercise (use branch next time)" />
     <MESSAGE value="New line" />
-    <option name="LAST_COMMIT_MESSAGE" value="New line" />
+    <MESSAGE value="Set up ch 4 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up ch 4 exercises" />
   </component>
 </project>
