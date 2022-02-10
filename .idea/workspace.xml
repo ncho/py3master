@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="Ch 3 exercise (use branch next time)">
+    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="New line">
+      <change afterPath="$PROJECT_DIR$/EXERCISES/c2f_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/guessx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISES/string_fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/string_fun.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644450944132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New line">
+      <created>1644451174701</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644451174701</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +215,7 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Test test" />
     <MESSAGE value="Ch 3 exercise (use branch next time)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ch 3 exercise (use branch next time)" />
+    <MESSAGE value="New line" />
+    <option name="LAST_COMMIT_MESSAGE" value="New line" />
   </component>
 </project>
