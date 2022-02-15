@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="Created ch 6 exercises">
-      <change afterPath="$PROJECT_DIR$/EXERCISES/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/common_fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/scores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/set_sieve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/shell_users.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISES/alt_lines.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/alt_lines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISES/count_alice.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/count_alice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISES/count_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/count_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISES/line_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/line_no.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="2127tb9wW5YepGfjDmqZFmDfMKX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -253,7 +253,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="ch_5_exercises" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
