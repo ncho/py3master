@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="Created ch 6 exercises">
-      <change afterPath="$PROJECT_DIR$/EXERCISES/common_fruit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/scores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/set_sieve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/shell_users.py" afterDir="false" />
+    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="created ch 7 exercises">
+      <change afterPath="$PROJECT_DIR$/EXERCISES/sieve.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DATA/fruit2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/fruit2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISES/common_fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/common_fruit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISES/scores.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/scores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXERCISES/shell_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/shell_users.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +59,8 @@
       <recent name="$PROJECT_DIR$/EXERCISES" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.line_no">
-    <configuration name="guessx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.common_fruit">
+    <configuration name="common_fruit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/guessx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/common_fruit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pow2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/pow2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/scores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sequences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shell_users" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/sequences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/shell_users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,19 +166,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.guessx" />
-      <item itemvalue="Python.pow2" />
-      <item itemvalue="Python.sequences" />
       <item itemvalue="Python.icount_words" />
       <item itemvalue="Python.line_no" />
+      <item itemvalue="Python.scores" />
+      <item itemvalue="Python.shell_users" />
+      <item itemvalue="Python.common_fruit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.common_fruit" />
+        <item itemvalue="Python.shell_users" />
+        <item itemvalue="Python.scores" />
         <item itemvalue="Python.line_no" />
         <item itemvalue="Python.icount_words" />
-        <item itemvalue="Python.sequences" />
-        <item itemvalue="Python.pow2" />
-        <item itemvalue="Python.guessx" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644621882562</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="created ch 7 exercises">
+      <created>1644884342513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644884342513</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +304,7 @@
     <MESSAGE value="Set up ch 4 exercises" />
     <MESSAGE value="Completed ch 5 exercises" />
     <MESSAGE value="Created ch 6 exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created ch 6 exercises" />
+    <MESSAGE value="created ch 7 exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="created ch 7 exercises" />
   </component>
 </project>
