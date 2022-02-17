@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="saving">
+    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="ch 7 exercises and a missed ch 5 exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISES/set_sieve.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/set_sieve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXERCISES/sieve.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXERCISES/sieve.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644992276022</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ch 7 exercises and a missed ch 5 exercise">
+      <created>1645057698263</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645057698263</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,6 +315,7 @@
     <MESSAGE value="Created ch 6 exercises" />
     <MESSAGE value="created ch 7 exercises" />
     <MESSAGE value="saving" />
-    <option name="LAST_COMMIT_MESSAGE" value="saving" />
+    <MESSAGE value="ch 7 exercises and a missed ch 5 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch 7 exercises and a missed ch 5 exercise" />
   </component>
 </project>
