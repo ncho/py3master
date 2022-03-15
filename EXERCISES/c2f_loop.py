@@ -13,6 +13,6 @@ while True:
     if celsius.isdigit():
         celsius = float(celsius)
         fahrenheit = ((9* celsius) / 5) + 32
-        print('{:.1f} C is {:1f} F\n'.format(celsius, fahrenheit))
+        print('{:.1f} C is {:.1f} F\n'.format(celsius, fahrenheit))
     else:
         print("Please enter a number")
