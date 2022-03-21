@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="ch 11 exercises">
-      <change afterPath="$PROJECT_DIR$/EXERCISES/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/knight_info.py" afterDir="false" />
+    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EXERCISES/_scratchpad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/bigwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/custinfo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/mark_big_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/print_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/pyfind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/word_freq.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +62,8 @@
       <recent name="$PROJECT_DIR$/EXERCISES" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.knight">
-    <configuration name="c2f_loop_mod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.word_freq">
+    <configuration name="_scratchpad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,28 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/c2f_loop_mod.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="f2c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py3master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXERCISES" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/f2c.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/_scratchpad.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="knight_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mark_big_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/knight_info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/mark_big_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regex_sub" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +138,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/simple_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/regex_sub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word_freq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py3master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXERCISES" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/word_freq.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,19 +169,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.f2c" />
-      <item itemvalue="Python.c2f_loop_mod" />
-      <item itemvalue="Python.simple_class" />
       <item itemvalue="Python.knight" />
-      <item itemvalue="Python.knight_info" />
+      <item itemvalue="Python.regex_sub" />
+      <item itemvalue="Python._scratchpad" />
+      <item itemvalue="Python.mark_big_words" />
+      <item itemvalue="Python.word_freq" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.word_freq" />
+        <item itemvalue="Python.mark_big_words" />
+        <item itemvalue="Python.regex_sub" />
+        <item itemvalue="Python._scratchpad" />
         <item itemvalue="Python.knight" />
-        <item itemvalue="Python.knight_info" />
-        <item itemvalue="Python.simple_class" />
-        <item itemvalue="Python.c2f_loop_mod" />
-        <item itemvalue="Python.f2c" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647370488160</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ch 12">
+      <created>1647644586461</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1647644586461</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,6 +356,7 @@
     <MESSAGE value="ch 8 exercises" />
     <MESSAGE value="ch 10 exercises" />
     <MESSAGE value="ch 11 exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch 11 exercises" />
+    <MESSAGE value="ch 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch 12" />
   </component>
 </project>
