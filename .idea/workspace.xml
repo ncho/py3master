@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EXERCISES/_scratchpad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/bigwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/custinfo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/mark_big_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/print_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/pyfind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/word_freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/print_sys_info.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +56,7 @@
       <recent name="$PROJECT_DIR$/EXERCISES" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.word_freq">
+  <component name="RunManager" selected="Python.file_size">
     <configuration name="_scratchpad" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="knight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_size" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/knight.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/file_size.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,19 +163,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.knight" />
       <item itemvalue="Python.regex_sub" />
       <item itemvalue="Python._scratchpad" />
       <item itemvalue="Python.mark_big_words" />
       <item itemvalue="Python.word_freq" />
+      <item itemvalue="Python.file_size" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file_size" />
         <item itemvalue="Python.word_freq" />
         <item itemvalue="Python.mark_big_words" />
         <item itemvalue="Python.regex_sub" />
         <item itemvalue="Python._scratchpad" />
-        <item itemvalue="Python.knight" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647644586461</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="ch 13">
+      <created>1647899016301</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1647899016301</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,6 +358,7 @@
     <MESSAGE value="ch 10 exercises" />
     <MESSAGE value="ch 11 exercises" />
     <MESSAGE value="ch 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch 12" />
+    <MESSAGE value="ch 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch 13" />
   </component>
 </project>
