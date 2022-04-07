@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="ch 15">
-      <change afterPath="$PROJECT_DIR$/EXERCISES/copy_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/for_usage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EXERCISES/get_file_size.py" afterDir="false" />
+    <list default="true" id="b37100db-dad7-4032-92f6-866824e25508" name="Changes" comment="ch 16">
+      <change afterPath="$PROJECT_DIR$/DATA/potus.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/potus/presidents.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DATA/potus/presidents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/count_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/make_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/potus.pic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/potus.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/read_potus_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EXERCISES/save_potus_info.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +64,7 @@
       <recent name="$PROJECT_DIR$/EXERCISES" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.copy_csv">
+  <component name="RunManager" selected="Python.make_zip">
     <configuration name="copy_csv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_usage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="make_zip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/for_usage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/make_zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fun_with_dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read_potus_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/fun_with_dates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/read_potus_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ww2_days" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="save_potus_info (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXERCISES" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANSWERS" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/ww2_days.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANSWERS/save_potus_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="youngest_pres" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="save_potus_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py3master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/youngest_pres.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXERCISES/save_potus_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,19 +171,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.ww2_days" />
-      <item itemvalue="Python.fun_with_dates" />
-      <item itemvalue="Python.youngest_pres" />
-      <item itemvalue="Python.for_usage" />
       <item itemvalue="Python.copy_csv" />
+      <item itemvalue="Python.save_potus_info" />
+      <item itemvalue="Python.save_potus_info (1)" />
+      <item itemvalue="Python.read_potus_info" />
+      <item itemvalue="Python.make_zip" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.make_zip" />
+        <item itemvalue="Python.read_potus_info" />
+        <item itemvalue="Python.save_potus_info" />
+        <item itemvalue="Python.save_potus_info (1)" />
         <item itemvalue="Python.copy_csv" />
-        <item itemvalue="Python.for_usage" />
-        <item itemvalue="Python.youngest_pres" />
-        <item itemvalue="Python.fun_with_dates" />
-        <item itemvalue="Python.ww2_days" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649193090512</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ch 16">
+      <created>1649269527003</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649269527003</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,6 +390,7 @@
     <MESSAGE value="ch 13" />
     <MESSAGE value="ch 14" />
     <MESSAGE value="ch 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="ch 15" />
+    <MESSAGE value="ch 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch 16" />
   </component>
 </project>
